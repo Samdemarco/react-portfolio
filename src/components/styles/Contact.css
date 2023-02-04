@@ -1,0 +1,78 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact h1 {
+    margin-bottom: 30px;
+    margin: 30px;
+    font-weight: 700;
+  }
+  
+  .contact label {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .contact input,
+  .contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+
+
+  }
+  
+  .contact button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #3354e9;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+    margin-bottom: 40px;
+
+
+  }
+  .contact button[type="submit"]:hover {
+    background-color: #0c2461;
+  }
+  
+ 
+  
+  @media only screen and (max-width: 600px) {
+    .about h2 {
+      font-size: 40px;
+    }
+  
+    .about .prompt {
+      margin-top: 10px;
+      font-size: 20px;
+      width: 80%;
+    }
+  
+    .skills {
+      text-align: center;
+    }
+    .list {
+      padding: 0;
+    }
+  
+    .skills h2 {
+      font-size: 30px;
+    }
+    
+   
+      
+      
+      
+      
+      
+  }
