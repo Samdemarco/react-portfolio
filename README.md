@@ -15,28 +15,11 @@ This web application is my personal web page and was created using the React.js 
 
 ## App Snapshots
 
-App in browser
-![App in-browser](images/JATE.png)
+About page
+![About](src/assets/portfolio_about.png)
 
-Using devtools we can see the Service Worker is active
-![Service worker online](images/JATE_serviceWorkers.png)
-
-
-We can then inspect and verify that the manifest is loaded 
-![Manifest](images/JATE_manifest.png)
-
-Confirm data is continuously added to database and saved locally
-![IndexDB](images/JATE_db.png)
-
-Service Worker is still active offline ensuring continuous caching
-![Service worker offline](images/JATE_offline.png)
-
-Option to install a local copy to your machine
-![App Install](images/JATE_Install.png)
-
-
-
-
+Resume page
+![Resume](src/assets/portfolio_resume.png)
 
 
 ## User Story
