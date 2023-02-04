@@ -15,8 +15,8 @@ This web application is my personal web page and was created using the React.js 
 
 ## App Snapshots
 
-App in browser
-![App in-browser](images/JATE.png)
+About section in browser
+![About](src/assets/portfolio_about.png)
 
 Using devtools we can see the Service Worker is active
 ![Service worker online](images/JATE_serviceWorkers.png)
