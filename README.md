@@ -11,9 +11,7 @@
 
 ## Description
 
-This web application is a text editor that runs in the browser. It is a single-page application that meets 
-the PWA criteria. Additionally, it features a number of data persistence techniques that serve as redundancy in 
-case one of the options is not supported by the browser. The application is also capable of functioning offline.
+This web application is my personal web page and was created using the React.js JavaScript open-source library. It is a single-page application that has various sections like my portfolio of projects, work experience, and resume. 
 
 ## App Snapshots
 
