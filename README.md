@@ -1,7 +1,7 @@
-# Progressive Web Applications (PWA): Text Editor
+# 20 React: React Portfolio
 
 <p align="center">
-  <img src="images/logo.png">
+  <img src="public/logo192.png">
 </p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
