@@ -2,7 +2,7 @@ import './App.css';
 import Footer from './components/Footer';
 import Header from './components/Header';
 import Portfolio from './components/pages/Portfolio';
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
+import {HashRouter as Router, Routes, Route} from 'react-router-dom'
 import Contact from './components/pages/Contact';
 import Resume from './components/pages/Resume';
 import About from './components/pages/About';
