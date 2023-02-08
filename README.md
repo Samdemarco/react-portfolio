@@ -16,7 +16,7 @@ This web application is my personal web page and was created using the React.js 
 ## App Snapshots
 
 About page
-![About](src/assets/portfolio_about.png)
+![About](src/assets/reactPortfolioShot.png)
 
 Resume page
 ![Resume](src/assets/portfolio_resume.png)
