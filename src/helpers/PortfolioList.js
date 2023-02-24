@@ -50,7 +50,7 @@ export const PortfolioList = [
         name: "TimeLapse",
         image: codeQuiz,
         gitHubLink: "https://github.com/mbenitez1607/time_lapse" ,
-        projectLink: "https://dashboard.heroku.com/apps/timelapse1/deploy/github"
+        projectLink: "https://timelapse1.herokuapp.com/login"
     },  
 ]
 
