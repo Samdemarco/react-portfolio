@@ -46,5 +46,11 @@ export const PortfolioList = [
         gitHubLink: "https://github.com/Samdemarco/fullstackQuiz" ,
         projectLink: "https://samdemarco.github.io/fullstackQuiz/"
     },  
+        {
+        name: "TimeLapse",
+        image: codeQuiz,
+        gitHubLink: "https://github.com/mbenitez1607/time_lapse" ,
+        projectLink: "https://dashboard.heroku.com/apps/timelapse1/deploy/github"
+    },  
 ]
 
